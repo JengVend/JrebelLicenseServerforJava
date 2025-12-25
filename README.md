@@ -12,6 +12,15 @@
 
 # 使用教程
 
+
+## 设置离线模式
+```
+在线模式:Wrk online
+离线模式: Work offline
+```
+<img width="1085" height="718" alt="image" src="https://github.com/user-attachments/assets/54bd8c0e-628f-40cf-b457-2d766df0fa48" />
+
+
 ## 使用JDK1.8
 
 ## 启动Grable项目
@@ -30,5 +39,8 @@ https://www.guidgen.com/
 URL： http://localhost:8081/{GUID}
 EMAIL： 任意邮箱
 ```
+<img width="524" height="622" alt="image" src="https://github.com/user-attachments/assets/a256edc5-527e-41be-8a53-77d09b79381c" />
+
+
 
 
