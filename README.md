@@ -1,11 +1,3 @@
----
-typora-copy-images-to: img
----
-
-
-
-
-
 # JrebelLicenseServerforJava
 
 搭建jrebel激活服务; 欢迎star。
@@ -38,4 +30,5 @@ https://www.guidgen.com/
 URL： http://localhost:8081/{GUID}
 EMAIL： 任意邮箱
 ```
+
 
