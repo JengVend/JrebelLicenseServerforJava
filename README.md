@@ -23,7 +23,7 @@
 
 ## 使用JDK1.8
 
-## 启动Grable项目
+## 启动Grable项目（激活成功后需要通过JRebel启动一次项目）
 <img width="2553" height="622" alt="image" src="https://github.com/user-attachments/assets/250a03d2-1f40-4b8d-8f7d-1be69d9e653c" />
 
 ## 获取GUID
@@ -40,6 +40,7 @@ URL： http://localhost:8081/{GUID}
 EMAIL： 任意邮箱
 ```
 <img width="524" height="622" alt="image" src="https://github.com/user-attachments/assets/a256edc5-527e-41be-8a53-77d09b79381c" />
+
 
 
 
