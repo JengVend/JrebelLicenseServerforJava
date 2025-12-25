@@ -172,8 +172,8 @@ public class MainServer extends AbstractHandler {
                 "    \"zeroIds\": [\n" +
                 "        \n" +
                 "    ],\n" +
-                "    \"licenseValidFrom\": 1490544001000,\n" +
-                "    \"licenseValidUntil\": 1691839999000\n" +
+                "    \"licenseValidFrom\": 1735660800000,\n" +
+                "    \"licenseValidUntil\": 4102415999000\n" +
                 "}";
 
         JSONObject jsonObject = JSONObject.fromObject(jsonStr);
